@@ -12,28 +12,28 @@
 
 Next.js 系列
 
-+ Solid.js
-+ PWA
-+ Tailwind CSS
-+ Typescript
-+ Node.js
+- Solid.js
+- PWA
+- Tailwind CSS
+- Typescript
+- Node.js
 
 API 交互
 
-+ tRPC
-+ S3 对象存储
+- tRPC
+- S3 对象存储
 
 数据库
 
-+ Redis
-+ MongoDB
-+ PostgreSQL
-+ InfluxDB 时序数据库
-+ Milvus 向量数据库
+- Redis
+- MongoDB
+- PostgreSQL
+- InfluxDB 时序数据库
+- Milvus 向量数据库
 
 机器学习
 
-+ TensorFlow.js
+- TensorFlow.js
 
 ## 开发须知
 
