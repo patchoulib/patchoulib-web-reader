@@ -1,12 +1,11 @@
-import { createSignal } from 'solid-js';
 import './App.css';
-import Home from './pages/Home.tsx';
+import Home from './pages/Home/Home';
+import UserHeader from './components/UserHeader/UserHeader.tsx';
 
 function App() {
-  const [count, setCount] = createSignal(0);
-
   return (
     <>
+      <UserHeader/>
       <Home />
     </>
   );

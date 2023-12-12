@@ -1,0 +1,4 @@
+body {
+    @apply bg-amber-100 text-amber-950;
+    font-family: "SimSun", serif;
+}
